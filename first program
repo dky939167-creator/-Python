@@ -1,0 +1,5 @@
+#wap to add two number from input from user
+fnum = input('Enter a first number')
+snum = input('enter a second number')
+result = int(fnum) + int(snum)
+print (result)
