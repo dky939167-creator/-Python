@@ -1,0 +1,5 @@
+a =input("1st sum")
+b =input("2nd sum")
+sum= int (a)+ int(b)
+print(sum)
+print(type(sum))
