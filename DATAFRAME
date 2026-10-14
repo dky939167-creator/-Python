@@ -1,0 +1,7 @@
+import pandas as pd
+data = {
+    "math":[80,10,20],
+    "science":[40,50,60]}
+
+df = pd.DataFrame(data)
+print(df)
